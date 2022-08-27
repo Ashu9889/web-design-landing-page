@@ -169,6 +169,9 @@
         text-align: center;
        
     }
+    .left-section h1{
+            font-size: 3rem;
+    }
     .left-section h4{
         /* margin-inline: 0px;
          */
@@ -182,6 +185,7 @@
         width: 100%;
         text-align: center;
         height: auto;
+        margin-block: 30px;
     } 
     
     .imgs-div img:nth-child(1){
